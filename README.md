@@ -5,13 +5,17 @@ These portfolio templates are for setting up your Telling Stories with Data site
 It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
 
 - Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
-
+- This repository: https://github.com/akittiru/Areeya-portfolio-templates
+  
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi there! I’m Areeya Kittiruangthong, an MBA student at Carnegie Mellon University. I used to work in corporate banking, so I’ve spent a lot of time crunching numbers, building reports, and helping executives make decisions.
+
+Lately, I’ve realized that numbers alone aren’t enough—how you show them really matters. That’s why I’m getting into data visualization to turn complex info into something people can actually understand and act on quickly.
+
+I’m a basic Excel user who’s learning to go beyond spreadsheets. I’ve used Tableau and Power BI before (though it’s been a while, so I’m a bit rusty 😅). I also love art and design, and I’m hoping to blend that creative side with analytics to make visuals that are clear, simple, and fun to look at.
 
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
