@@ -18,17 +18,12 @@ Lately, I’ve realized that numbers alone aren’t enough—how you show them r
 I’m a basic Excel user who’s learning to go beyond spreadsheets. I’ve used Tableau and Power BI before (though it’s been a while, so I’m a bit rusty 😅). I also love art and design, and I’m hoping to blend that creative side with analytics to make visuals that are clear, simple, and fun to look at.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+1. To learn how to make good visualizations while still keeping the logic and interpretation accurate
+2. Understand what to consider from the reader’s perspective
+3. Explore new tools to create better data visualizations
+4. Find more inspiring design ideas since my current designs feel quite limited
+5. Get familiar to work with different types of data outside my specialized field
+6. Learn how to make data visualizations more universal, so anyone can understand them easily
 
 # Portfolio
 
