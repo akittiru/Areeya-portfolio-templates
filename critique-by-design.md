@@ -52,7 +52,7 @@ I think the most meaningful design changes for my final redesign will focus on i
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
 ## References
-For reference, I found another version of this data in the attached image. It seems like this type of chart is easier to understand, but I still want to try changing the look and tone.
+For reference, I found the similar chart as the attached image. It changes from Men&Women to American&British. It seems like this type of chart is easier to understand, but I still want to try changing the look and tone.
 <img width="748" height="997" alt="image" src="https://github.com/user-attachments/assets/99a9550e-35d5-4899-85ee-49e338ddb5a2" />
 
 
