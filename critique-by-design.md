@@ -17,12 +17,12 @@ At a high level, the original chart is informative and conveys a clear upward or
 2) The color choices are unintuitive. Using non-standard gender cues (like blue or pink) makes decoding slower.
 3) The grey background grid creates visual noise and competes with the data.
 4) The grid lines and background create unnecessary clutter.
-5) Much of the engagement comes from the topic and illustrations, not the data itself.
-
-   
-
+5) Clearer depictions of the animals would make it easier for viewers to understand their actual size.
+6) The numbers on the X-Axis seem redundant since we already know they represent percentages.
 
 ## Step three: Sketch a solution
+My first draft of revision solution is here.
+<img width="1447" height="1632" alt="image" src="https://github.com/user-attachments/assets/b4ee0dd1-064c-42be-983d-3b42eb3c7707" />
 
 ## Step four: Test the solution
 
