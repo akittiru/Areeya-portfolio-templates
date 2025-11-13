@@ -26,30 +26,15 @@ My first draft of revision solution is here.
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+| **Question**                                                               | **Interview 2: DA student**                                                                                                                    | **Interview 1: DA student**                                                                       | **Interview 3: DA student**                                                                      | **Interview 3: MBA student**                                                                                                |
+| -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
+| **Do you understand what this chart is about?**                            | Yes                                                                                                                                            | Yes                                                                                               | Yes                                                                                              | Yes                                                                                                                         |
+| **Does it make sense to show the data this way compared to the original?** | It’s understandable, and this chart helps people see that it’s about animals better than the original, where you have to read the title again. | Creative and interesting way to show the data.                                                    | Good, but the original one is also easy to understand.                                           | Yes, it makes sense — it’s more enjoyable to read.                                                                          |
+| **What do you like about this design?**                                    | I like the idea of using animal icons instead of just a plain chart.                                                                           | It’s helpful to see the icons of the animals.                                                     | It’s more picturable.                                                                            | I like that it shows the size of the average human alongside the size of each animal.                                       |
+| **Is there anything surprising or confusing?**                             | No                                                                                                                                             | The scale might be difficult to make accurate.                                                    | No                                                                                               | Might not need to categorize animals into large/medium/small because we can already compare them with the human silhouette. |
+| **Is there anything you would change or do differently?**                  | Might try using a vertical stacked bar chart.                                                                                                  | Could try a unit chart and place animals side-by-side, like showing an elephant in blue and pink. | The numbers are really small and might be difficult to maintain consistently across all animals. | No need to show very small animals because everyone knows we can beat something like a rat.                                 |
+| **Further comments**                                                       | The slim border between pink and blue might be hard to see.                                                                                    | –                                                                                                 | Could change from blue/pink to gender symbols.                                                   | Should add percentage signs to make the numbers clearer.                                                                    |
 
-Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
-Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
 
 Synthesis: 
 
