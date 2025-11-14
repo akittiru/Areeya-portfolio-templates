@@ -71,11 +71,25 @@ This time, I adjusted the chart to better reflect the design I have in mind. I c
 
 I’m still unable to apply the correct color scale to the animal icons. I tried using ChatGPT for assistance, but the output became inconsistent and introduced several inaccuracies.
 
+5) My fifth revision
+I think AI still lacks the capability to generate accurate pictures—especially matching each animal correctly with its label. Most of the time it creates mythical or incorrect animals, and the names are often wrong. Combining pink and blue within the same flat icon also seems nearly impossible at the moment.
+I’ve spent too much time trying to fix ChatGPT commands, so I’m going to stop here and switch back to the normal chart. If I have more time, I might try to create it manually later.
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/77d42f7b-6ca5-4e67-a0b7-c72ed96c568a" />
+
+7) My last version
+Link is here
+https://public.tableau.com/views/scatterofanimals_Final/Sheet3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Eventually, I chose to use a scatter plot because it clearly shows the relationship between how dangerous each animal is and how confident men and women feel about beating it. Animals that are easier to defeat—and that both men and women feel confident about—appear in the upper-right area of the chart because of the higher confidence values. Meanwhile, dangerous and larger animals like grizzly bears, elephants, and lions fall in the lower-left area, where confidence is much lower.
+
+At first, I planned to place flat animal icons on top of each scatter point to make it easier to identify the animals, but many of the points were too close to each other, so the icons overlapped and became unreadable. Then I considered adding transparent background shading to break the chart into four interpretive zones—for example, the top-right for small/easy animals, and the top-left for animals that men feel confident about but women do not. However, since I want to publish an interactive version in Tableau, I was not able to add those background overlays.
+
+
 ## References
 For reference, I found the similar chart as the attached image. It changes from Men&Women to American&British. It seems like this type of chart is easier to understand, but I still want to try changing the look and tone.
 <img width="748" height="997" alt="image" src="https://github.com/user-attachments/assets/99a9550e-35d5-4899-85ee-49e338ddb5a2" />
 
 
 ## AI acknowledgements
-I used ChatGPT.AI to help me review and improve my first draft by generating detailed feedback on the clarity, readability, and overall effectiveness of my visualization. It also supported me in writing concise explanations in my assignment. In addition, I used ChatGPT to help create a feedback box using Markdown code.
+I used ChatGPT.AI to help me review and improve my first draft by generating detailed feedback on the clarity, readability, and overall effectiveness of my visualization. It also supported me in writing concise explanations in my assignment.In addition, I used ChatGPT to help create a feedback box using Markdown and to experiment with a more graphic-heavy visualization. However, the graphic approach didn’t work out as well as I hoped.
 
