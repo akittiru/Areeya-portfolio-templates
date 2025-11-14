@@ -1,7 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # What animal could you beat in a fight?
-This is a critique of a visualization "Percentage of Amercian men and women that confident on winning battle with animals
+This is a critique of a visualization "Percentage of Amercian men and women that confident on winning battle with animals"
 
 ## Step one: the visualization
 The original visualization Link https://today.yougov.com/society/articles/35852-lions-and-tigers-and-bears-what-animal-would-win-f
@@ -49,8 +49,6 @@ I think the most meaningful design changes for my final redesign will focus on i
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
-
 1) My first revision
 <img width="2052" height="888" alt="image" src="https://github.com/user-attachments/assets/c05a81e1-1dd2-41ea-81c4-1475434631d9" />
 
@@ -67,9 +65,10 @@ Then I changed the design by removing the animal axis and asking myself what the
 This time, I adjusted the chart to better reflect the design I have in mind. I considered using Datawrapper because the interactive format and column layout could have improved the presentation of the chart. However, the result appeared crowded and did not enhance clarity or audience engagement as expected.
 
 4) My fourth revision (attempt!)
+After trying all the charts my friends suggested (some of which I’d never even thought of) I realized that I still like my original idea the most.
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/128a6241-48b7-49b1-9558-2ee72f4f8892" />
 
-I’m still unable to apply the correct color scale to the animal icons. I tried using ChatGPT for assistance, but the output became inconsistent and introduced several inaccuracies.
+However, I’m still unable to apply the correct color scale to the animal icons. I tried using ChatGPT for assistance, but the output became inconsistent and introduced several inaccuracies.
 
 5) My fifth revision
 I think AI still lacks the capability to generate accurate pictures—especially matching each animal correctly with its label. Most of the time it creates mythical or incorrect animals, and the names are often wrong. Combining pink and blue within the same flat icon also seems nearly impossible at the moment.
