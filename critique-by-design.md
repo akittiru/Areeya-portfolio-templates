@@ -56,11 +56,15 @@ _Include and describe your final solution here. It's also a good idea to summari
 
 I tried changing the chart to a vertical stacked format as my friend recommended. But I found that ranking animals by size might not be the best approach because some smaller animals are actually more dangerous than larger ones, so the ordering feels inconsistent. Also, this version looks like something you’d see in a meeting room. It doesn’t draw much attention at all.
 
+2) My second revision
 <img width="1640" height="1484" alt="Sheet 3" src="https://github.com/user-attachments/assets/291a3099-3b69-4528-8c8c-88712e9c845c" />
 
 Then I changed the design by removing the animal axis and asking myself what the chart could look like without it. It turned out much cleaner, but I had to trade off the intuitive blue-and-pink color scheme. Still, I got an idea that it might look even better if I replace the dots with simple animal flat icons.
 
+3) My third revision
+<iframe title="Men Are More Confident Than Women in Beating Medium-Sized Animals" aria-label="Small multiple column chart" id="datawrapper-chart-nA5b0" src="https://datawrapper.dwcdn.net/nA5b0/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="811" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
+This time I chnage the chart to be
 
 ## References
 For reference, I found the similar chart as the attached image. It changes from Men&Women to American&British. It seems like this type of chart is easier to understand, but I still want to try changing the look and tone.
