@@ -68,6 +68,7 @@ This time, I adjusted the chart to better reflect the design I have in mind. I c
 
 4) My fourth revision (attempt!)
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/128a6241-48b7-49b1-9558-2ee72f4f8892" />
+
 I’m still unable to apply the correct color scale to the animal icons. I tried using ChatGPT for assistance, but the output became inconsistent and introduced several inaccuracies.
 
 ## References
