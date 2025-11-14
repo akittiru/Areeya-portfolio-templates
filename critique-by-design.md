@@ -64,7 +64,11 @@ Then I changed the design by removing the animal axis and asking myself what the
 3) My third revision
 <iframe title="Men Are More Confident Than Women in Beating Medium-Sized Animals" aria-label="Small multiple column chart" id="datawrapper-chart-nA5b0" src="https://datawrapper.dwcdn.net/nA5b0/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="811" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
-This time I chnage the chart to be
+This time, I adjusted the chart to better reflect the design I have in mind. I considered using Datawrapper because the interactive format and column layout could have improved the presentation of the chart. However, the result appeared crowded and did not enhance clarity or audience engagement as expected.
+
+4) My fourth revision (attempt!)
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/128a6241-48b7-49b1-9558-2ee72f4f8892" />
+I’m still unable to apply the correct color scale to the animal icons. I tried using ChatGPT for assistance, but the output became inconsistent and introduced several inaccuracies.
 
 ## References
 For reference, I found the similar chart as the attached image. It changes from Men&Women to American&British. It seems like this type of chart is easier to understand, but I still want to try changing the look and tone.
