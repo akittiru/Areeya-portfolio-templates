@@ -20,7 +20,22 @@ Text here...
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
+0.5) Get to know what is matcha? who started this trends?
+1) Why matcha taste so good that everyone loves it! (chart to show the flavor and taste available and benefit of drinking matcha) 
+2) How popular we're talking about? (chart to show demand for matcha 0r export from Japan)
+3) Why matcha is SUPER popular in these recent year?!
+   - chart of tourists that visit Japan
+   - Chart of healthcare trends
+4) The supply is shortage (chart to show the decrease supply of matcha and tea plants)
+   - climate change
+   - Labor shortage
+   - Process of making matcha can take 2 years
+5) Matcha price is sky rocketed!!
+6) How that affect to Matcha lovers (map to show average price of matcha increase)
+7) regions in the U.S. thaat claim thay are suffered from price spike!
+8) as a consumer, what can i do? (switch to other products that can substitute matcha, accept China matcha)
+9) But if you're not a loser and rich enough to buy overprice matcha --> go to these places!
+   
 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
