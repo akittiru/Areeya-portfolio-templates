@@ -27,6 +27,8 @@ Text here...
    - chart of tourists that visit Japan
    - Chart of healthcare trends
 4) The supply is shortage (chart to show the decrease supply of matcha and tea plants)
+   - Product decrease 
+   <iframe title="Japanese Tea Production Volume has been continuously decreasing since 2008" aria-label="Stacked Bars" id="datawrapper-chart-FrXkS" src="https://datawrapper.dwcdn.net/FrXkS/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="312" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
    - climate change
    - Labor shortage
    - Process of making matcha can take 2 years
