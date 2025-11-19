@@ -6,7 +6,7 @@
 # Outline
 > Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
  
-Text here...
+I’ve always loved matcha, so when I kept hearing news about prices rising, I got curious. I know part of it comes from how popular matcha has become lately—everyone seems to be drinking it—but I wanted to understand what else is driving the increase. Is it supply? Is it production costs? And honestly, as someone who just wants my usual matcha at the price I used to pay, I can’t help wondering: will matcha ever go back down in price, or is this the new normal?
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
