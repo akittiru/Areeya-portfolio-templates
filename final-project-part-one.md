@@ -131,13 +131,18 @@ So it was definitely a challenge. I might have to create a visualization based o
 <iframe title="Japanese Tea farmers are consolidating and enlarging their farm sizes throughout 2005-2020" aria-label="Symbol map" id="datawrapper-chart-h952I" src="https://datawrapper.dwcdn.net/h952I/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="629" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
    
    - climate change map
+     <img width="1492" height="926" alt="image" src="https://github.com/user-attachments/assets/3aee3535-9338-4f2e-9cd2-0f98cd90a7ba" />
+
    - Labor shortage
    - Process of making matcha can take 2 years (timeline)
 6) Matcha price is sky rocketed!!
 7) How that affect to Matcha lovers (map to show average price of matcha increase)
 8) regions in the U.S. that claim thay are suffered from price spiked!
+<img width="1228" height="560" alt="image" src="https://github.com/user-attachments/assets/3b968597-170d-4b19-9356-f4da57c780d0" />
+
 9) as a consumer, what can i do? (switch to other products that can substitute matcha, accept China matcha)
 10) But if you're not a loser and rich enough to buy overprice matcha --> go to these teahouse places!
+<img width="1322" height="684" alt="image" src="https://github.com/user-attachments/assets/28552b2a-9aa0-4481-a041-45b85c5454cc" />
 
 
 # The data
