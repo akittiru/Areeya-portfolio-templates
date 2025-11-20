@@ -1,24 +1,124 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-I’ve always loved matcha, so when I kept hearing news about prices rising, I got curious. I know part of it comes from how popular matcha has become lately—everyone seems to be drinking it—but I wanted to understand what else is driving the increase. Is it supply? Is it production costs? And honestly, as someone who just wants my usual matcha at the price I used to pay, I can’t help wondering: will matcha ever go back down in price, or is this the new normal?
+I’ve always loved matcha, so when I kept hearing news about prices rising, I got curious. I know part of it comes from how popular matcha has become lately (everyone seems to be drinking it) but I wanted to understand what else is driving the increase. Is it supply? Is it production costs? And honestly, as someone who just wants my usual matcha at the price I used to pay, I can’t help wondering: will matcha ever go back down in price, or is this the new normal?
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+In this visualization, I want to share the curiosity that led me to explore matcha prices and help readers become smarter consumers. My goal is for them to understand why matcha has become more expensive, recognize when a product is overpriced, and learn the logic behind price changes driven by popularity and shifting demand. By seeing these patterns, readers can apply the same thinking to other trendy foods or products in the future and better navigate how prices evolve over time.
 
-Text here...
+This is the overall story I want to tell, and it can be built up step-by-step following this sequence.
+
+# 🍵 Matcha Story: Why Are Prices Rising?
+
+## 0.5. What is matcha, really?  
+**Who started this trend?**
+
+- Brief intro to what matcha is (stone-ground green tea powder)
+- Origins in Japan and how it became a global trend
+- Key players: traditional tea houses → café chains → social media
+
+---
+
+## 1. Why does matcha taste so good? 😋  
+**Why does everyone love it?**
+
+- Chart idea: Flavor & taste profile of matcha  
+  - Umami, sweetness, bitterness, aroma
+- Chart idea: Health benefits of drinking matcha  
+  - Antioxidants, caffeine vs. L-theanine, etc.
+
+---
+
+## 2. How popular are we talking about? 📈  
+**Measuring the matcha boom**
+
+- Chart idea: Global demand for matcha over time  
+- Chart idea: Matcha exports from Japan (by year / by region)
+
+---
+
+## 3. Why is matcha *super* popular in recent years? 🚀  
+
+- Chart idea: Number of tourists visiting Japan over time  
+  - Link travel & tourism content with matcha exposure
+- Chart idea: Healthcare / wellness trends  
+  - Growth of “healthy drinks,” “superfoods,” or “functional beverages”
+- Story: Social media, café culture, and lifestyle branding
+
+---
+
+## 4. When demand explodes but supply shrinks 🌱  
+**The supply side problem**
+
+- Chart idea: Decrease in total tea production / matcha-grade tea leaves  
+- Chart idea: Area of Japanese tea production by region over time  
+
+Sub-causes:
+- Climate change  
+  - Map idea: Climate change impact on tea-growing regions in Japan
+- Labor shortage  
+  - Fewer farmers, aging population
+- Production constraints  
+  - Timeline: Growing → shading → harvesting → steaming → grinding  
+  - Highlight: High-quality matcha can take ~2 years from field to cup
+
+---
+
+## 5. Matcha prices skyrocket 💸  
+
+- Chart idea: Matcha price index over time  
+- Show how recent years compare to “normal” historical levels
+
+---
+
+## 6. How does this affect matcha lovers? 💔  
+
+- Map idea: Average matcha latte / drink price increase by country or city  
+- Chart idea: Price comparison over time for popular matcha products
+
+---
+
+## 7. Where do people feel the price spike the most? 🗺️  
+
+- Map idea: Regions in the U.S. that report “matcha is too expensive”  
+- Option: Use survey data, Google Trends, or café price examples by region
+
+---
+
+## 8. As a consumer, what can I do? 🧠  
+**How to be a smarter matcha drinker**
+
+- Switch to alternative products:
+  - Other green teas, hojicha, sencha, etc.
+- Consider non-Japanese matcha:
+  - Accept matcha from China or other countries (with quality notes)
+- Tips:
+  - Buy in bulk, check grams per serving, compare price per gram
+
+---
+
+## 9. If you’re rich (or just refuse to give up matcha) 😎  
+**Where to go for the “best of the best”**
+
+- Curate a short list of specialty tea houses / matcha cafés
+- Position: “If you decide to pay premium prices, at least pay for real quality.”
+- Optional: Small map or list by city
+
+---
+
+## 🔚 Takeaway
+
+By the end of this story, the reader should:
+- Understand *why* matcha prices have gone up  
+- Recognize the link between popularity, supply constraints, and climate/labor issues  
+- Learn how to avoid overpaying and apply the same logic to other “trendy” foods
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+This is my first draft. I haven’t thought about other aspects yet, so it mainly focuses on price movement.
+<img width="1020" height="457" alt="image" src="https://github.com/user-attachments/assets/d8b2f106-1d51-48b8-a1da-b4b09c104c34" />
 
-Text here...
-
-# The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+After that, I tried looking up matcha data, but it turned out to be REALLY difficult.
+Matcha is just one specific type of tea, so there aren’t many detailed records available. Most of the sources I found were in Japanese, so I had to rely heavily on translation tools. Moreover, many of them were infographics or charts without exact numbers. Some only gave rough estimates or skipped several years because the data wasn’t recorded.
+So it was definitely a challenge. I might have to create a visualization based on qualitative data, which isn’t my favorite, while I continue searching for solid quantitative sources.
 
 0.5) Get to know what is matcha? who started this trends?
 1) Why matcha taste so good that everyone loves it! (chart to show the flavor and taste available and benefit of drinking matcha) 
@@ -30,36 +130,42 @@ Text here...
    - Product decrease 
  <iframe title="Japanese Tea Production Volume has been continuously decreasing since 2008" aria-label="Stacked Bars" id="datawrapper-chart-FrXkS" src="https://datawrapper.dwcdn.net/FrXkS/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="312" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
-
-
 The area of Japanese tea production
 <iframe title="Japanese Tea farmers are consolidating and enlarging their farm sizes throughout 2005-2020" aria-label="Symbol map" id="datawrapper-chart-h952I" src="https://datawrapper.dwcdn.net/h952I/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="629" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
    
-   - climate change
+   - climate change map
    - Labor shortage
-   - Process of making matcha can take 2 years
+   - Process of making matcha can take 2 years (timeline)
 5) Matcha price is sky rocketed!!
 6) How that affect to Matcha lovers (map to show average price of matcha increase)
-7) regions in the U.S. thaat claim thay are suffered from price spike!
+7) regions in the U.S. that claim thay are suffered from price spiked!
 8) as a consumer, what can i do? (switch to other products that can substitute matcha, accept China matcha)
-9) But if you're not a loser and rich enough to buy overprice matcha --> go to these places!
-   
+9) But if you're not a loser and rich enough to buy overprice matcha --> go to these teahouse places!
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+
+# The data
+My data comes from a wide range of sources. I pulled insights from major publications like Time, Forbes, and The Atlantic; trade statistics from Japan’s Ministry of Agriculture; and additional supporting information from websites that sell matcha tea powder. Together, these sources helped me piece together both the qualitative story and the limited quantitative data available.
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+| Time – “We Are Drinking So Much Matcha That Supplies Are Running Out” | https://time.com/7305699/we-are-drinking-so-much-matcha-that-supplies-are-running-out | Contains statistics on matcha’s share in Japanese tea production and global demand info. |
+| Ministry of Agriculture Japan (PDF) | https://drive.google.com/file/d/1JIjNtKzP-BQApCYQunuoQdSvzWRxMlqX/view | Primary source of quantitative data on tea production, yields, and regional statistics. |
+| Japan Forward – Kyoto Matcha Production | https://japan-forward.com/prized-matcha-from-kyoto-struggles-to-keep-up-with-surging-demand | Contains production capacity details, supply constraints, and producer statistics. |
+| ABC News – U.S. Tariffs & Demand Data | https://abcnews.go.com/International/matcha-us-tariffs-high-demand-leading-shortage-beloved/story?id=124027383 | Includes facts about tariffs, import numbers, and demand-driven shortages. |
+| ABC7 News – U.S. Matcha Price Impact | https://abc7news.com/17666773 | Includes real-world café-level price changes and regional shortage data. |
+
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+For this project, I plan to gather a mix of qualitative and quantitative data from news articles, government reports, and industry websites. Because many sources were already visualized, I focused on extracting qualitative insights that I can redesign into new visuals. Since my dataset is relatively small, I will use Datawrapper as my main visualization tool—its interface is user-friendly and supports interactive charts that work well with limited data. I don’t expect to use Tableau extensively for this project, as the data volume is not large enough to require more complex analysis.
 
 ## References
-_List any references you used here._
+| Name | URL | Description |
+|------|-----|-------------|
+| Maison Koko – Matcha Price Increase (2025) | https://maisonkoko.com/blogs/blog/matcha-price-increase-2025 | Explains reasons for price increases, production challenges, and market behavior. |
+| The Hustle – “Will Matcha’s Popularity Be Its Downfall?” | https://thehustle.co/originals/will-matchas-popularity-be-its-downfall | Trend analysis, cultural impact, and narrative about matcha demand. |
+| Forbes – “2024 Matcha Crisis: What Went Wrong?” | https://forbes.com/sites/sap/2024/12/10/2024-matcha-crisis-what-went-wrong | Contextual explanation of economic, climate, and labor issues behind the crisis. |
+| The Atlantic – “Why Matcha Is Suddenly Everywhere—and Expensive” | https://theatlantic.com/culture/archive/2025/11/matcha-shortage-food-trend/684934 | Cultural and trend commentary explaining the rise of matcha. |
+
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used ChatGPT AI tools to help with translating Japanese sources, revising my writing for clarity, and improving the grammar of my paragraphs. I also used AI to help format and decorate my GitHub Markdown—such as adding bold text, bullet points, and generating tables to organize my data sources.
