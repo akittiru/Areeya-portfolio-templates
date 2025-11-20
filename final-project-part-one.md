@@ -16,7 +16,6 @@ This is the overall story I want to tell, and it can be built up step-by-step fo
 - Origins in Japan and how it became a global trend
 - Key players: traditional tea houses → café chains → social media
 
----
 
 ## 1. Why does matcha taste so good? 😋  
 **Why does everyone love it?**
@@ -26,7 +25,6 @@ This is the overall story I want to tell, and it can be built up step-by-step fo
 - Chart idea: Health benefits of drinking matcha  
   - Antioxidants, caffeine vs. L-theanine, etc.
 
----
 
 ## 2. How popular are we talking about? 📈  
 **Measuring the matcha boom**
@@ -34,7 +32,6 @@ This is the overall story I want to tell, and it can be built up step-by-step fo
 - Chart idea: Global demand for matcha over time  
 - Chart idea: Matcha exports from Japan (by year / by region)
 
----
 
 ## 3. Why is matcha *super* popular in recent years? 🚀  
 
@@ -44,7 +41,6 @@ This is the overall story I want to tell, and it can be built up step-by-step fo
   - Growth of “healthy drinks,” “superfoods,” or “functional beverages”
 - Story: Social media, café culture, and lifestyle branding
 
----
 
 ## 4. When demand explodes but supply shrinks 🌱  
 **The supply side problem**
@@ -61,28 +57,24 @@ Sub-causes:
   - Timeline: Growing → shading → harvesting → steaming → grinding  
   - Highlight: High-quality matcha can take ~2 years from field to cup
 
----
 
 ## 5. Matcha prices skyrocket 💸  
 
 - Chart idea: Matcha price index over time  
 - Show how recent years compare to “normal” historical levels
 
----
 
 ## 6. How does this affect matcha lovers? 💔  
 
 - Map idea: Average matcha latte / drink price increase by country or city  
 - Chart idea: Price comparison over time for popular matcha products
 
----
 
 ## 7. Where do people feel the price spike the most? 🗺️  
 
 - Map idea: Regions in the U.S. that report “matcha is too expensive”  
 - Option: Use survey data, Google Trends, or café price examples by region
 
----
 
 ## 8. As a consumer, what can I do? 🧠  
 **How to be a smarter matcha drinker**
@@ -94,7 +86,6 @@ Sub-causes:
 - Tips:
   - Buy in bulk, check grams per serving, compare price per gram
 
----
 
 ## 9. If you’re rich (or just refuse to give up matcha) 😎  
 **Where to go for the “best of the best”**
@@ -103,7 +94,6 @@ Sub-causes:
 - Position: “If you decide to pay premium prices, at least pay for real quality.”
 - Optional: Small map or list by city
 
----
 
 ## 🔚 Takeaway
 
