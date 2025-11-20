@@ -5,6 +5,7 @@ I’ve always loved matcha, so when I kept hearing news about prices rising, I g
 
 In this visualization, I want to share the curiosity that led me to explore matcha prices and help readers become smarter consumers. My goal is for them to understand why matcha has become more expensive, recognize when a product is overpriced, and learn the logic behind price changes driven by popularity and shifting demand. By seeing these patterns, readers can apply the same thinking to other trendy foods or products in the future and better navigate how prices evolve over time.
 
+I followed the core storytelling arc of setup → conflict → resolution, beginning with what matcha is and why people love it, then escalating into rising demand, shrinking supply, and finally the impact on prices and consumers.
 This is the overall story I want to tell, and it can be built up step-by-step following this sequence.
 
 # 🍵 Matcha Story: Why Are Prices Rising?
