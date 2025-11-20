@@ -112,8 +112,14 @@ Matcha is just one specific type of tea, so there aren’t many detailed records
 So it was definitely a challenge. I might have to create a visualization based on qualitative data, which isn’t my favorite, while I continue searching for solid quantitative sources.
 
 0.5) Get to know what is matcha? who started this trends?
-1) Why matcha taste so good that everyone loves it! (chart to show the flavor and taste available and benefit of drinking matcha) 
+1) Why matcha taste so good that everyone loves it! (chart to show the flavor and taste available and benefit of drinking matcha)
+   <img width="1550" height="1082" alt="image" src="https://github.com/user-attachments/assets/9440bcc3-babb-4b02-a1f2-fd6ec5c841e2" />
+
+ <img width="1410" height="978" alt="image" src="https://github.com/user-attachments/assets/67bd8168-01f4-4859-84ba-6d37c47a12c6" />
+
 2) How popular we're talking about? (chart to show demand for matcha 0r export from Japan)
+   <img width="1644" height="1148" alt="image" src="https://github.com/user-attachments/assets/12a33679-5456-4b82-9bbe-f37b55f64a9d" />
+
 3) Why matcha is SUPER popular in these recent year?!
    - chart of tourists that visit Japan
    - Chart of healthcare trends
@@ -121,17 +127,17 @@ So it was definitely a challenge. I might have to create a visualization based o
    - Product decrease 
  <iframe title="Japanese Tea Production Volume has been continuously decreasing since 2008" aria-label="Stacked Bars" id="datawrapper-chart-FrXkS" src="https://datawrapper.dwcdn.net/FrXkS/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="312" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
-The area of Japanese tea production
+5) The area of Japanese tea production
 <iframe title="Japanese Tea farmers are consolidating and enlarging their farm sizes throughout 2005-2020" aria-label="Symbol map" id="datawrapper-chart-h952I" src="https://datawrapper.dwcdn.net/h952I/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="629" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
    
    - climate change map
    - Labor shortage
    - Process of making matcha can take 2 years (timeline)
-5) Matcha price is sky rocketed!!
-6) How that affect to Matcha lovers (map to show average price of matcha increase)
-7) regions in the U.S. that claim thay are suffered from price spiked!
-8) as a consumer, what can i do? (switch to other products that can substitute matcha, accept China matcha)
-9) But if you're not a loser and rich enough to buy overprice matcha --> go to these teahouse places!
+6) Matcha price is sky rocketed!!
+7) How that affect to Matcha lovers (map to show average price of matcha increase)
+8) regions in the U.S. that claim thay are suffered from price spiked!
+9) as a consumer, what can i do? (switch to other products that can substitute matcha, accept China matcha)
+10) But if you're not a loser and rich enough to buy overprice matcha --> go to these teahouse places!
 
 
 # The data
