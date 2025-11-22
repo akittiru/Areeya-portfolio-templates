@@ -8,9 +8,11 @@ Text here!
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+To figure out who my story should speak to, I started by looking at who actually drinks matcha the most right now thorugh social media and using my own experience. Gen Z and Millennials clearly dominate matcha culture because they’re active on Instagram, TikTok, they visit cafés regularly, and they’re the ones buying matcha lattes, desserts, and soft serves almost every week. These are also the people who immediately notice when prices go up.
 
-Text here!
+So the group I want to reach with my visualization is:
+- Young matcha lovers who care about why their favorite drink is suddenly getting more expensive and want to make smarter decisions as consumers
+- Young consumers that want to know what happens to their favorite drink in the next 5–10 years
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
