@@ -14,6 +14,9 @@ So the group I want to reach with my visualization is:
 - Young matcha lovers who care about why their favorite drink is suddenly getting more expensive and want to make smarter decisions as consumers
 - Young consumers that want to know what happens to their favorite drink in the next 5–10 years
 
+In short, If you’re between 12 and 44 and have ever posted a photo of yourself happily holding a matcha drink, and are still struggling to find the best matcha spot in a new town....you’re my target audience!
+https://missionchronicle.org/wp-content/uploads/2025/11/2-article-photo-or-image-for-school-community-profile-Oct-27-2025-at-121-PM-e1762801225616.jpg
+
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
 
