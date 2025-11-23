@@ -31,6 +31,7 @@ Credit photo: missionchronicle.org
 | Understand emotional/personal connection | • What do you love most about matcha?<br>• How would you feel if prices keep rising over the next few years?<br>• Would you switch to alternatives or stay loyal?<br>• Do you care about matcha origin (region, grade, authenticity)? |
 | Evaluate overall helpfulness | • After seeing the storyboard, do you understand the key reasons behind matcha price increases?<br>• Did the visuals help you understand the trend?<br>• Do you feel more informed as a consumer?<br>• Would this change how you buy or choose matcha? |
 
+> **Remark:** I may not be able to ask every question listed above. These represent my main guiding questions, but depending on the time available and the interview setting, I may have to skip or shorten certain questions. Some participants may only have a few minutes, so I will focus on the most essential ones during shorter interviews.
 
 
 ## Interview findings
