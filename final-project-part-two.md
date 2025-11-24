@@ -80,13 +80,25 @@ During the interviews, I realized that my audience actually splits into two grou
 This made me consider whether I should narrow my target audience and create a more specific persona—not just based on age, but also on their interests and what they want from the content. However, my original intention was to create something more general and accessible for everyone. After thinking about it, I still want to keep it as general knowledge, but I’ll acknowledge the different needs and try to balance depth with simplicity.
 
 # Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
+I decided not to create a persona because it would take too much time and isn’t necessary for my audience. I want to keep the target group fairly generic. Instead, I found a mood board that I really like. The matcha green pairs well with black, and using light text on a darker background makes everything easier to read.
 
-Text here!
+However, when I started building the story in Shorthand, I realized that some Datawrapper charts don’t automatically adjust to dark mode or dark backgrounds. I tried figuring it out but couldn’t get the charts to display correctly, so I switched to a green background instead. I’ll continue following this color palette moving forward.
+
+<img 
+  src="https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/508326033_1172940944844946_6491735781312799169_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=5qFMBIGRkPYQ7kNvwFHKjGL&_nc_oc=AdmmlA8UifEg25GWa1t7Y6IODYDZtunDc7MjyNheU-UEDkJV5ijKPyUGqcvgi1-_3a0&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=mLNhZa_hO6mCm9LTN3Q2KA&oh=00_AfgEK5CdjuHGLABj92duVqPSZH4SuUcSREU23X7WcY2VqA&oe=692A8633" 
+  width="200"
+/>
+Credit: Matcha Samurai. (n.d.). [Image of matcha moodboard]. [https://www.facebook.com](https://www.facebook.com/photo.php?fbid=1172940941511613&id=100063871548327&set=a.472518731553841)
+
+<img 
+  src="https://media.gettyimages.com/id/509147008/photo.jpg?s=612x612&w=0&k=20&c=ivBFOk0vzJOVkvyp6JZx9ou9xgnPLFqw454KDtgDzZw=" 
+  width="200"
+/>
+Naoi, I. (2016). [Photograph of tea crop in Shizuoka, Japan]. Getty Images. https://www.gettyimages.com/detail/509147008
 
 ## References
 _List any references you used here._
 
 ## AI acknowledgements
-I used AI to help me organize and format the interview responses into a structured table, convert everything into Markdown, and clean up my language. AI also helped me analyze which parts of my current storyboard need improvement so I can revise it to better meet the requirements for Part III.
+I used AI to help me organize and format the interview responses into a structured table, convert everything into Markdown, reduce the size of picture in Markdown, and clean up my language. AI also helped me analyze which parts of my current storyboard need improvement so I can revise it to better meet the requirements for Part III.
 
