@@ -73,10 +73,11 @@ Credit photo: missionchronicle.org
 | Audience already knows basic matcha concepts | Shift focus toward deeper insights (climate impact, labor, export issues, trend-driven demand) |
 | Audience wants to understand the “why” behind price increases | Emphasize underlying factors and provide layered explanations |
 
+During the interviews, I realized that my audience actually splits into two groups:
+(1) people who want deeper, more sophisticated insights about matcha, and
+(2) people who just want simple, conversational knowledge they can use casually.
 
-> ...include any final thoughts you have here. 
-
-Text here!
+This made me consider whether I should narrow my target audience and create a more specific persona—not just based on age, but also on their interests and what they want from the content. However, my original intention was to create something more general and accessible for everyone. After thinking about it, I still want to keep it as general knowledge, but I’ll acknowledge the different needs and try to balance depth with simplicity.
 
 # Moodboards / personas
 > If you did this optional part, include details here.  Otherwise remove this section
