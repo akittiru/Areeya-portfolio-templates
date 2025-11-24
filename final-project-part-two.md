@@ -92,8 +92,8 @@ However, when I started building the story in Shorthand, I realized that some Da
 Credit: Matcha Samurai. (n.d.). [Image of matcha moodboard]. [https://www.facebook.com](https://www.facebook.com/photo.php?fbid=1172940941511613&id=100063871548327&set=a.472518731553841)
 
 <img 
- [ src="https://media.gettyimages.com/id/509147008/photo.jpg?s=612x612&w=0&k=20&c=ivBFOk0vzJOVkvyp6JZx9ou9xgnPLFqw454KDtgDzZw=" 
-  width="200"](https://media.gettyimages.com/id/509147008/photo/green-tea-plantation-in-japan.jpg?s=1024x1024&w=gi&k=20&c=kV4-g_ZhXVYrwDkcxqIcZEInLwqdsp2Z8j_BuA-_OO8=)
+  src="sandbox:/mnt/data/149fc8d1-6b97-4598-b47f-73eb6d58aa02.png" 
+  width="200"
 />
 
 Naoi, I. (2016). [Photograph of tea crop in Shizuoka, Japan]. Getty Images. https://www.gettyimages.com/detail/509147008
