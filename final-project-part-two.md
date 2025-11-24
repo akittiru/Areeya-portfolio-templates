@@ -40,7 +40,7 @@ Credit photo: missionchronicle.org
 | How often do you drink matcha? | 2–3 times per week | Twice a month | About twice a month; I drink matcha latte. |
 | Where do you usually buy matcha? | Shops near office or make at home | Cafés / coffee shops | Matcha cafés or 7-Eleven. |
 | Do you notice when matcha prices change? | Yes | Yes | No, because I always buy the cheapest one and don’t pay attention to special/rare ones. |
-| How much do you typically spend on matcha? | 100–120 THB | 120 THB | 70–90 THB per drink. |
+| How much do you typically spend on matcha? (All my interviewees are based in Thailand, so their matcha prices were originally in Thai Baht. After converting to USD, the drinks may look cheap by U.S. standards, but in the context of Thailand’s cost of living, these prices are considered relatively high.) | $3 | $3.3 | $2.5 per drink. |
 | Have you wondered why matcha is getting more expensive? | Not really; trendy items become pricier | Because it’s trendy | I think demand has increased because it’s trending and part of café branding. |
 | Which reason are you most curious about? | Production time, leaf shortages, true cost | Climate | Probably climate change reducing tea yields + higher demand. I’ve seen news that Japan also faces green tea shortages. |
 | Do you think matcha drinks are overpriced? | Yes | Yes | Overpriced, but I’m not sure if it’s only in Thailand or globally. |
