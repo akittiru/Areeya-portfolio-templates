@@ -88,5 +88,5 @@ Text here!
 _List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used AI to help me organize and format the interview responses into a structured table, convert everything into Markdown, and clean up my language. AI also helped me analyze which parts of my current storyboard need improvement so I can revise it to better meet the requirements for Part III.
 
