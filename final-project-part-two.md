@@ -92,11 +92,11 @@ However, when I started building the story in Shorthand, I realized that some Da
 Credit: Matcha Samurai. (n.d.). [Image of matcha moodboard]. [https://www.facebook.com](https://www.facebook.com/photo.php?fbid=1172940941511613&id=100063871548327&set=a.472518731553841)
 
 <img 
-  src="sandbox:/mnt/data/149fc8d1-6b97-4598-b47f-73eb6d58aa02.png" 
-  width="200"
+  src="https://breakawaymatcha.com/cdn/shop/articles/IMG_0188.jpg?v=1570647613&width=2400" 
+  width="200" 
 />
 
-Naoi, I. (2016). [Photograph of tea crop in Shizuoka, Japan]. Getty Images. https://www.gettyimages.com/detail/509147008
+Breakaway Matcha. (n.d.). How matcha is produced. https://breakawaymatcha.com/blogs/masterclass-in-matcha/how-matcha-is-produced
 
 ## References
 _List any references you used here._
