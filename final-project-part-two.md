@@ -29,13 +29,13 @@ Credit photo: missionchronicle.org
 | Identify missing information | • When matcha prices rise, what is the first question that comes to your mind?<br>• What part of the matcha supply chain is unclear to you?<br>• What comparisons would you like to see (matcha vs coffee, matcha grades, café markup)?<br>• What do you wish cafés were more transparent about? |
 | **Evaluate my storyboard outline** | **My Storyboard Outline:**<br>1. What makes matcha delicious (taste + health profile)<br>2. How popular matcha has become globally<br>3. Why matcha popularity surged (tourism, wellness trends, social media)<br>4. Supply-side issues: climate change & declining production<br>5. Labor shortages & aging farmers<br>6. Slow production process (shading → harvesting → grinding)<br>7. Rising matcha prices over time<br>8. How consumer prices are affected<br>9. Tips to be a smart matcha drinker<br><br>**Questions:**<br>• Are these sections helpful for understanding the price rise?<br>• Which parts feel most useful or interesting to you?<br>• Is there anything you don’t need or don’t care about?<br>• Is there anything missing that you would want to learn?<br>• Does this feel too long, too short, or just right? |
 | Understand emotional/personal connection | • What do you love most about matcha?<br>• How would you feel if prices keep rising over the next few years?<br>• Would you switch to alternatives or stay loyal?<br>• Do you care about matcha origin (region, grade, authenticity)? |
-| Evaluate overall helpfulness | • After seeing the storyboard, do you understand the key reasons behind matcha price increases?<br>• Did the visuals help you understand the trend?<br>• Do you feel more informed as a consumer?<br>• Would this change how you buy or choose matcha? |
+| Evaluate overall helpfulness | • After seeing the storyboard, do you understand the key reasons behind matcha price increases?<br>• Did the visuals help you understand the trend?<br>• Do you feel more informed as a consumer?<br>|
 
 > **Remark:** I may not be able to ask every question listed above. These represent my main guiding questions, but depending on the time available and the interview setting, I may have to skip or shorten certain questions. Some participants may only have a few minutes, so I will focus on the most essential ones during shorter interviews.
 
 
 ## Interview findings
-| **Question** | **Lena’s Response** | **Mo’s Response** | **Jan’s Response** |
+| **Question** | **Interviewee #1** | **Interviewee #2** | **Interviewee #3** |
 |--------------|----------------------|--------------------|----------------------|
 | How often do you drink matcha? | 2–3 times per week | Twice a month | About twice a month; I drink matcha latte. |
 | Where do you usually buy matcha? | Shops near office or make at home | Cafés / coffee shops | Matcha cafés or 7-Eleven. |
@@ -57,8 +57,8 @@ Credit photo: missionchronicle.org
 | How would you feel if prices keep rising? | Would drink less | Consumption would decrease | If the price is too high, I simply won’t consume it. |
 | Would you switch to alternatives? | Cocoa or hojicha | I prefer coffee | I would switch and only drink matcha occasionally. |
 | Do you care about origin/grade? | Good taste + no flour | Only taste and price | I don’t really care, as long as it’s real matcha and not synthetic. |
-| Do you understand price rise reasons now? | Yes | I didn’t know what the storyboard was | Not sure; unclear. |
-| Did the visuals help you understand the trend? | Not really | Didn’t see visuals | No visuals were shown. |
+| Do you understand price rise reasons now? | Yes | Yes, but not so deep understanding | Not sure; unclear. |
+| Did the visuals help you understand the trend? | Yes | Yes | Not fully. |
 | Do you feel more informed as a consumer? | Yes | Not sure | Not sure. |
 
 
