@@ -63,17 +63,16 @@ Credit photo: missionchronicle.org
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Findings or Observations from Interviews | Anticipated Changes to Address the Observation |
+|------------------------------------------|------------------------------------------------|
+| Storyboard does not clearly explain how matcha prices rise | Add clearer supply–demand logic and show causal links visually |
+| Lacks concrete data on production, demand, and supply | Incorporate estimated or approximate figures to strengthen explanations |
+| Too many small topics that distract from the main message | Combine related sections to make the narrative more concise |
+| Audience already knows basic matcha concepts | Shift focus toward deeper insights (climate impact, labor, export issues, trend-driven demand) |
+| Audience wants to understand the “why” behind price increases | Emphasize underlying factors and provide layered explanations |
+
 
 > ...include any final thoughts you have here. 
 
