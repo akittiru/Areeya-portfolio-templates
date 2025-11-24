@@ -37,7 +37,7 @@ Credit photo: missionchronicle.org
 | **Question** | **Interviewee #1** | **Interviewee #2** | **Interviewee #3** | **Interviewee #4** |
 |--------------|---------------------|---------------------|---------------------|---------------------|
 | How often do you drink matcha? | 2–3 times per week | Twice a month | About twice a month; I drink matcha latte. | About once a week; sometimes mixed with coffee or coconut water. |
-| Where do you usually buy matcha? | Shops near office or make at home | Cafés / coffee shops | Matcha cafés or 7-Eleven. | A matcha shop under my office (So! Match). |
+| Where do you usually buy matcha? | Shops near office or make at home | Cafés / coffee shops | Matcha cafés or 7-Eleven. | A matcha shop under my office. |
 | Do you notice when matcha prices change? | Yes | Yes | No, because I buy the cheapest one. | Yes, matcha is trending and prices have increased. |
 | How much do you typically spend on matcha? *(THB converted to USD)* | $3 | $3.3 | $2.5 | $1.9–$3.3 |
 | Have you wondered why matcha is getting more expensive? | Not really; trendy items become pricier | Because it’s trendy | Demand increased because it’s trending and part of café branding. | Yes, and I also wonder why it suddenly became a trend. |
@@ -88,12 +88,14 @@ However, when I started building the story in Shorthand, I realized that some Da
   src="https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/508326033_1172940944844946_6491735781312799169_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=5qFMBIGRkPYQ7kNvwFHKjGL&_nc_oc=AdmmlA8UifEg25GWa1t7Y6IODYDZtunDc7MjyNheU-UEDkJV5ijKPyUGqcvgi1-_3a0&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=mLNhZa_hO6mCm9LTN3Q2KA&oh=00_AfgEK5CdjuHGLABj92duVqPSZH4SuUcSREU23X7WcY2VqA&oe=692A8633" 
   width="200"
 />
+
 Credit: Matcha Samurai. (n.d.). [Image of matcha moodboard]. [https://www.facebook.com](https://www.facebook.com/photo.php?fbid=1172940941511613&id=100063871548327&set=a.472518731553841)
 
 <img 
-  src="https://media.gettyimages.com/id/509147008/photo.jpg?s=612x612&w=0&k=20&c=ivBFOk0vzJOVkvyp6JZx9ou9xgnPLFqw454KDtgDzZw=" 
-  width="200"
+ [ src="https://media.gettyimages.com/id/509147008/photo.jpg?s=612x612&w=0&k=20&c=ivBFOk0vzJOVkvyp6JZx9ou9xgnPLFqw454KDtgDzZw=" 
+  width="200"](https://media.gettyimages.com/id/509147008/photo/green-tea-plantation-in-japan.jpg?s=1024x1024&w=gi&k=20&c=kV4-g_ZhXVYrwDkcxqIcZEInLwqdsp2Z8j_BuA-_OO8=)
 />
+
 Naoi, I. (2016). [Photograph of tea crop in Shizuoka, Japan]. Getty Images. https://www.gettyimages.com/detail/509147008
 
 ## References
