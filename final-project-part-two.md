@@ -81,7 +81,7 @@ During the interviews, I realized that my audience actually splits into two grou
 This made me consider whether I should narrow my target audience and create a more specific persona—not just based on age, but also on their interests and what they want from the content. However, my original intention was to create something more general and accessible for everyone. After thinking about it, I still want to keep it as general knowledge, but I’ll acknowledge the different needs and try to balance depth with simplicity.
 
 
-# My revised storyboard (might not be able to complete all of these, but here is my expected full-list)#
+# My revised storyboard (might not be able to complete all of these, but here is my expected full-list)
 1. Why Matcha Prices Are Rising
 2. The Demand Surge
 3. Supply Constraints (Core of the Story)
