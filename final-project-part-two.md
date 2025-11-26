@@ -80,6 +80,21 @@ During the interviews, I realized that my audience actually splits into two grou
 
 This made me consider whether I should narrow my target audience and create a more specific persona—not just based on age, but also on their interests and what they want from the content. However, my original intention was to create something more general and accessible for everyone. After thinking about it, I still want to keep it as general knowledge, but I’ll acknowledge the different needs and try to balance depth with simplicity.
 
+
+# My revised storyboard (might not be able to complete all of these, but here is my expected full-list)#
+1. Why Matcha Prices Are Rising
+2. The Demand Surge
+3. Supply Constraints (Core of the Story)
+      3.1 Climate Pressure
+      3.2 Labor Shortages
+      3.3 Slow, Craft-Based Production
+4. The Price Mechanism
+5.Price Trends Over Time
+6. Cost Breakdown Snapshot
+7. How Rising Costs Affect Consumers
+8. Practical Matcha Buying Tips
+9. Future Outlook
+
 # Moodboards / personas
 I decided not to create a persona because it would take too much time and isn’t necessary for my audience. I want to keep the target group fairly generic. Instead, I found a mood board that I really like. The matcha green pairs well with black, and using light text on a darker background makes everything easier to read.
 
@@ -103,5 +118,5 @@ Breakaway Matcha. (n.d.). How matcha is produced. https://breakawaymatcha.com/bl
 _List any references you used here._
 
 ## AI acknowledgements
-I used AI to help me organize and format the interview responses into a structured table, convert everything into Markdown, reduce the size of picture in Markdown, and clean up my language. AI also helped me analyze which parts of my current storyboard need improvement so I can revise it to better meet the requirements for Part III.
+I used AI to help me organize and format the interview responses into a structured table, convert everything into Markdown, reduce the size of picture in Markdown, and clean up my language. AI also helped me analyze which parts of my current storyboard need improvement so I can revise it to better meet the requirements for Part III, and also help suggesting the revised storyboard to make sure it make sense while providing information that Matcha drinkers want to know.
 
