@@ -84,10 +84,10 @@ This made me consider whether I should narrow my target audience and create a mo
 # My revised storyboard (might not be able to complete all of these, but here is my expected full-list)
 1. Why Matcha Prices Are Rising
 2. The Demand Surge
-3. Supply Constraints (Core of the Story)
-      3.1 Climate Pressure
-      3.2 Labor Shortages
-      3.3 Slow, Craft-Based Production
+3. Supply Constraints (Core of the Story)<br>
+      3.1 Climate Pressure<br>
+      3.2 Labor Shortages<br>
+      3.3 Slow, Craft-Based Production<br>
 4. The Price Mechanism
 5.Price Trends Over Time
 6. Cost Breakdown Snapshot
