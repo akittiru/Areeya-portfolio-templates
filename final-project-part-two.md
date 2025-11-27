@@ -23,7 +23,6 @@ Credit photo: missionchronicle.org
 
 
 ## Interview script
-
 | **Goal** | **Questions to Ask** |
 |---------|------------------------|
 | Understand matcha habits | How often do you drink matcha (latte, desserts, soft serve, etc.)?<br />Where do you usually buy matcha?<br />Do you notice when matcha prices change?<br />How much do you typically spend on matcha?<br />When you move to a new city, do you search for matcha spots? How? |
