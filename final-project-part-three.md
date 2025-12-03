@@ -7,7 +7,7 @@ Open here! --> https://preview.shorthand.com/si3nOe2I3fjocMfl
 # Changes made since Part II
 After I gathered all the feedback from my audiences, it helped me to cleary focus on what are important for them. There are many data that I find it useful but I ended up did not using them because I need to make it clean and concise as my audiences are generation that has short attention spand and usually spend only 30 seconds to judge whether this source of data is helpful.
 
-While developing new storyline, I try to make the language more consistent and make sure the audience is learning throughout the presentation.
+While developing new storyline, I try to make the language more consistent and make sure the audience is learning throughout the presentation. Call to action is also key 
 
 I also change some moodboard tone. In Part II, I planned to use Green and Black. However, after I embeded my charts, it turned out that black background decreased chart's visibility and contrasted to the background pictures which most of them are light tone (like a cute cup of matcha latte in a cafe).
 
