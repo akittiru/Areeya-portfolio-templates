@@ -1,16 +1,15 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
-
-Text here!
+Dear Matcha, Why You So Pricey?
+Open here! --> https://preview.shorthand.com/si3nOe2I3fjocMfl
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
-
-Text here!
+After I gathered all the feedback from my audiences, it helped me to cleary focus on what are important for them. There are many data that I find it useful but I ended up did not using them because I need to make it clean and concise as my audiences are generation that has short attention spand and usually spend only 30 seconds to judge whether this source of data is helpful.
 
 ## The audience
+
+
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
 Text here!
