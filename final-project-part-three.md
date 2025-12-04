@@ -31,7 +31,15 @@ My target audience isn’t only curious about why matcha prices are rising. They
 ## Final design decisions
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
 
-Text here!
+<img width="2164" height="1516" alt="image" src="https://github.com/user-attachments/assets/750b5aa3-f6dd-44dd-bf85-dd5bbe27027c" />
+1) At first, I did not want to use ChatGPT generated visualization at all since I learned from the previous assignment that eventhough I put in the best prompt I could, it would still get the wrong chart. This time, I listed all the information in bullets as let it generated and I cleaned it up afterwards in Microsoft Powerpoint. For example, the wrong direction arrow, the excessive text boxes.
+
+<img width="1266" height="898" alt="image" src="https://github.com/user-attachments/assets/4a45b0ff-82d2-4366-89aa-7ad224dd4364" />
+
+2) One of the buying tips is to choose matcha based on the color. I used the descriptive text at first, then realized that Datawrapper allows us to fill in the table with the Hex color code, so I asked ChatGPT to choose the closet Hex Color code for me and it turned out perfectly well. I think this table improved my storyboard a lot (at least in my opinion) becuase now that I have all the matcha colors here!
+
+3) I removed Price Trends Over Time section since it has already included in the Demand surge section.
+
 
 ## References
 All data sources, information, and images used in my project have already been properly cited within my Shorthand story.
