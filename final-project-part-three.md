@@ -34,7 +34,7 @@ My target audience isn’t only curious about why matcha prices are rising. They
 Text here!
 
 ## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+All data sources, information, and images used in my project have already been properly cited within my Shorthand story.
 
 ## AI acknowledgements
 For this project, I used AI in several supportive ways. I used it to help me write Markdown code, gather information, transalte from Japanese to English and identify reliable data sources. I also asked it to suggest revisions and recommend visualization types that best communicated my key messages. For my interviews, I used AI to convert the responses into clear, organized tables, which made the analysis much easier.
