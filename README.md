@@ -25,10 +25,6 @@ I’m a basic Excel user who’s learning to go beyond spreadsheets. I’ve used
 # Portfolio
 
 ## Inclass Exerecise: Trust in news media_updated.xlsx
-<div class='tableauPlaceholder' id='viz1761850276085' style='position: relative'><noscript><a href='#'><img alt='&lt;Trust in news organizations&gt;(source Simmons research, 2018) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Tr&#47;Trustinnewsorganizations_Areeya&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Trustinnewsorganizations_Areeya&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Tr&#47;Trustinnewsorganizations_Areeya&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1761850276085');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -79,6 +75,126 @@ I’m a basic Excel user who’s learning to go beyond spreadsheets. I’ve used
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 <div class='tableauPlaceholder' id='viz1762207228486' style='position: relative'><noscript><a href='#'><img alt='OECD Debt to GDP Ratios By Countries between 1995-2019 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;OE&#47;OECD-DebttoGDPratios&#47;OECD2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='OECD-DebttoGDPratios&#47;OECD2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;OE&#47;OECD-DebttoGDPratios&#47;OECD2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1762207228486');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Areeya – Tableau Dashboards</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      margin: 0;
+      padding: 2rem 1rem 3rem;
+      max-width: 960px;
+      margin-inline: auto;
+      line-height: 1.5;
+    }
+    h1, h2 {
+      text-align: center;
+    }
+    .viz-container {
+      margin: 2rem 0 3rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>Areeya – Tableau Dashboards</h1>
+
+  <!-- ===================== 1. Trust in news organizations ===================== -->
+  <section class="viz-container">
+    <h2>Trust in news organizations</h2>
+    <div class="tableauPlaceholder" id="vizTrustNews" style="position:relative">
+      <noscript>
+        <a href="#">
+          <img
+            alt="Trust in news organizations (source: Simmons research, 2018)"
+            src="https://public.tableau.com/static/images/Tr/Trustinnewsorganizations_Areeya/Sheet1/1.png"
+            style="border:none"
+          />
+        </a>
+      </noscript>
+      <object class="tableauViz" style="display:none;">
+        <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
+        <param name="embed_code_version" value="3" />
+        <param name="site_root" value="" />
+        <param name="name" value="Trustinnewsorganizations_Areeya/Sheet1" />
+        <param name="tabs" value="no" />
+        <param name="toolbar" value="yes" />
+        <param name="static_image" value="https://public.tableau.com/static/images/Tr/Trustinnewsorganizations_Areeya/Sheet1/1.png" />
+        <param name="animate_transition" value="yes" />
+        <param name="display_static_image" value="yes" />
+        <param name="display_spinner" value="yes" />
+        <param name="display_overlay" value="yes" />
+        <param name="display_count" value="yes" />
+        <param name="language" value="en-US" />
+      </object>
+    </div>
+  </section>
+
+  <!-- ===================== 2. OECD Debt to GDP Ratios ===================== -->
+  <section class="viz-container">
+    <h2>OECD Debt to GDP Ratios (1995–2019)</h2>
+    <div class="tableauPlaceholder" id="vizOECDDebt" style="position:relative">
+      <noscript>
+        <a href="#">
+          <img
+            alt="OECD Debt to GDP Ratios By Countries between 1995–2019"
+            src="https://public.tableau.com/static/images/OE/OECD-DebttoGDPratios/OECD2/1.png"
+            style="border:none"
+          />
+        </a>
+      </noscript>
+      <object class="tableauViz" style="display:none;">
+        <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
+        <param name="embed_code_version" value="3" />
+        <param name="site_root" value="" />
+        <param name="name" value="OECD-DebttoGDPratios/OECD2" />
+        <param name="tabs" value="no" />
+        <param name="toolbar" value="yes" />
+        <param name="static_image" value="https://public.tableau.com/static/images/OE/OECD-DebttoGDPratios/OECD2/1.png" />
+        <param name="animate_transition" value="yes" />
+        <param name="display_static_image" value="yes" />
+        <param name="display_spinner" value="yes" />
+        <param name="display_overlay" value="yes" />
+        <param name="display_count" value="yes" />
+        <param name="language" value="en-US" />
+      </object>
+    </div>
+  </section>
+
+  <!-- ===================== Tableau JS loader ===================== -->
+  <script type="text/javascript">
+    function initViz(divId) {
+      var divElement = document.getElementById(divId);
+      if (!divElement) return;
+      var vizElement = divElement.getElementsByTagName('object')[0];
+      if (!vizElement) return;
+
+      vizElement.style.width = '100%';
+      vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
+    }
+
+    // Load Tableau JS API once, then initialize both vizzes
+    var scriptElement = document.createElement('script');
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+    scriptElement.onload = function () {
+      initViz('vizTrustNews');
+      initViz('vizOECDDebt');
+    };
+    document.body.appendChild(scriptElement);
+
+    // Optional: resize on window resize
+    window.addEventListener('resize', function () {
+      initViz('vizTrustNews');
+      initViz('vizOECDDebt');
+    });
+  </script>
+</body>
+</html>
+
+
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
