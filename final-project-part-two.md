@@ -16,6 +16,7 @@ So the group I want to reach with my visualization is:
 In short, If you’re between 12 and 44 and have ever posted a photo of yourself happily holding a matcha drink, and are still struggling to find the best matcha spot in a new town....you’re my target audience!
 
 <img src="https://missionchronicle.org/wp-content/uploads/2025/11/2-article-photo-or-image-for-school-community-profile-Oct-27-2025-at-121-PM-e1762801225616.jpg" width="300">
+
 Credit photo: missionchronicle.org
 
 
@@ -101,13 +102,6 @@ This made me consider whether I should narrow my target audience and create a mo
 I decided not to create a persona because it would take too much time and isn’t necessary for my audience. I want to keep the target group fairly generic. Instead, I found a mood board that I really like. The matcha green pairs well with black, and using light text on a darker background makes everything easier to read.
 
 However, when I started building the story in Shorthand, I realized that some Datawrapper charts don’t automatically adjust to dark mode or dark backgrounds. I tried figuring it out but couldn’t get the charts to display correctly, so I switched to a green background instead. I’ll continue following this color palette moving forward.
-
-<img 
-  src="https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/508326033_1172940944844946_6491735781312799169_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=5qFMBIGRkPYQ7kNvwFHKjGL&_nc_oc=AdmmlA8UifEg25GWa1t7Y6IODYDZtunDc7MjyNheU-UEDkJV5ijKPyUGqcvgi1-_3a0&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=mLNhZa_hO6mCm9LTN3Q2KA&oh=00_AfgEK5CdjuHGLABj92duVqPSZH4SuUcSREU23X7WcY2VqA&oe=692A8633" 
-  width="200"
-/>
-
-Credit: Matcha Samurai. (n.d.). [Image of matcha moodboard]. [https://www.facebook.com](https://www.facebook.com/photo.php?fbid=1172940941511613&id=100063871548327&set=a.472518731553841)
 
 <img 
   src="https://breakawaymatcha.com/cdn/shop/articles/IMG_0188.jpg?v=1570647613&width=2400" 
