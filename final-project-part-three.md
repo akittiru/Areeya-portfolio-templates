@@ -50,8 +50,6 @@ For this project, I used AI in several supportive ways. I used it to help me wri
 On the design side, I used Shorthand’s AI features to ensure that the colors and visual tone were consistent throughout the story. And finally, I used AI tools to check and refine my grammar.
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
+Overall, this project was both challenging and surprisingly fun. I finally got to bring together the analytical side of data visualization with something I personally care about. If I had more time, I would have pushed the quantitative angle further. I also wished I could revisit some interview insights and refine how they connect to my final visuals, because the more I worked on the story, the clearer it became that different audiences want very different depths of information.
 
-Text here!
-
-
+What I’m most excited about is seeing the story come alive visually. I also learned how to work more iteratively including of asking for feedback, testing ideas, and editing without being too attached to the first version. Even though I didn’t get to explore everything I initially imagined, I’m proud of how cohesive the final narrative feels.
