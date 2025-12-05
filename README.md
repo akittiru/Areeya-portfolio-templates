@@ -245,14 +245,17 @@ I’m a basic Excel user who’s learning to go beyond spreadsheets. I’ve used
 Part I — Research
 
 I gathered background information on why matcha prices are rising, reviewed articles, identified early themes, and drafted my initial storyboard and visual ideas.
-Link: https://akittiru.github.io/Areeya-portfolio-templates/final-project-part-one
+[Final Project – Part I](https://akittiru.github.io/Areeya-portfolio-templates/final-project-part-one)
+
 
 Part II — Interviews
 
 I conducted interviews to understand what people actually want to know. Their feedback helped me refine my target audience, clarify my key message, simplify explanations, and revise my storyboard. I used AI to summarize responses and organize the insights.
-Link: https://akittiru.github.io/Areeya-portfolio-templates/final-project-part-two
+[Final Project – Part II](https://akittiru.github.io/Areeya-portfolio-templates/final-project-part-two)
+
 
 Part III — Final Project
 
 I built the final data story using Datawrapper and Shorthand, combining visuals (price trends, search trends, farmer demographics, exports) with a clear narrative. I explained why matcha prices are increasing and added practical buying tips as my call-to-action.
-Link: https://akittiru.github.io/Areeya-portfolio-templates/final-project-part-three
+[Final Project – Part III](https://akittiru.github.io/Areeya-portfolio-templates/final-project-part-three)
+
