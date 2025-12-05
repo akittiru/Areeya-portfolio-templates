@@ -2,8 +2,7 @@
 
 # Wireframes / storyboards
 
-Link to Shorthand
-https://preview.shorthand.com/si3nOe2I3fjocMfl
+[🔗 View my Shorthand story](https://preview.shorthand.com/si3nOe2I3fjocMfl)
 
 # User research 
 
