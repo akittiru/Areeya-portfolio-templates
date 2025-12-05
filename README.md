@@ -80,7 +80,7 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Areeya – Tableau Dashboards</title>
+  <title>OECD Debt to GDP Ratios (1995–2019)</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <style>
     body {
@@ -91,7 +91,7 @@ For this assignment, make sure you set up and link to a new page.  This page is 
       margin-inline: auto;
       line-height: 1.5;
     }
-    h1, h2 {
+    h1 {
       text-align: center;
     }
     .viz-container {
@@ -99,43 +99,11 @@ For this assignment, make sure you set up and link to a new page.  This page is 
     }
   </style>
 </head>
+
 <body>
-  <h1>Areeya – Tableau Dashboards</h1>
+  <h1>OECD Debt to GDP Ratios (1995–2019)</h1>
 
-  <!-- ===================== 1. Trust in news organizations ===================== -->
   <section class="viz-container">
-    <h2>Trust in news organizations</h2>
-    <div class="tableauPlaceholder" id="vizTrustNews" style="position:relative">
-      <noscript>
-        <a href="#">
-          <img
-            alt="Trust in news organizations (source: Simmons research, 2018)"
-            src="https://public.tableau.com/static/images/Tr/Trustinnewsorganizations_Areeya/Sheet1/1.png"
-            style="border:none"
-          />
-        </a>
-      </noscript>
-      <object class="tableauViz" style="display:none;">
-        <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
-        <param name="embed_code_version" value="3" />
-        <param name="site_root" value="" />
-        <param name="name" value="Trustinnewsorganizations_Areeya/Sheet1" />
-        <param name="tabs" value="no" />
-        <param name="toolbar" value="yes" />
-        <param name="static_image" value="https://public.tableau.com/static/images/Tr/Trustinnewsorganizations_Areeya/Sheet1/1.png" />
-        <param name="animate_transition" value="yes" />
-        <param name="display_static_image" value="yes" />
-        <param name="display_spinner" value="yes" />
-        <param name="display_overlay" value="yes" />
-        <param name="display_count" value="yes" />
-        <param name="language" value="en-US" />
-      </object>
-    </div>
-  </section>
-
-  <!-- ===================== 2. OECD Debt to GDP Ratios ===================== -->
-  <section class="viz-container">
-    <h2>OECD Debt to GDP Ratios (1995–2019)</h2>
     <div class="tableauPlaceholder" id="vizOECDDebt" style="position:relative">
       <noscript>
         <a href="#">
@@ -146,6 +114,7 @@ For this assignment, make sure you set up and link to a new page.  This page is 
           />
         </a>
       </noscript>
+
       <object class="tableauViz" style="display:none;">
         <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
         <param name="embed_code_version" value="3" />
@@ -164,11 +133,10 @@ For this assignment, make sure you set up and link to a new page.  This page is 
     </div>
   </section>
 
-  <!-- ===================== Tableau JS loader ===================== -->
+  <!-- Load Tableau JS + initialize -->
   <script type="text/javascript">
     function initViz(divId) {
       var divElement = document.getElementById(divId);
-      if (!divElement) return;
       var vizElement = divElement.getElementsByTagName('object')[0];
       if (!vizElement) return;
 
@@ -176,21 +144,18 @@ For this assignment, make sure you set up and link to a new page.  This page is 
       vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
     }
 
-    // Load Tableau JS API once, then initialize both vizzes
     var scriptElement = document.createElement('script');
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
     scriptElement.onload = function () {
-      initViz('vizTrustNews');
       initViz('vizOECDDebt');
     };
     document.body.appendChild(scriptElement);
 
-    // Optional: resize on window resize
     window.addEventListener('resize', function () {
-      initViz('vizTrustNews');
       initViz('vizOECDDebt');
     });
   </script>
+
 </body>
 </html>
 
