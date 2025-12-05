@@ -1,8 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-Dear Matcha, Why You So Pricey?
-Open here! --> (https://preview.shorthand.com/si3nOe2I3fjocMfl)
+[Dear Matcha, Why You So Pricey? Open here!](https://preview.shorthand.com/si3nOe2I3fjocMfl)
 
 # Changes made since Part II
 After gathering all the feedback from my audience, it helped me clearly focus on what was most important to them. There were many data points I found useful, but I ended up not using them because I needed the presentation to stay clean and concise. My audience is a generation with a short attention span, and they usually spend only about 30 seconds deciding whether the information is helpful.
