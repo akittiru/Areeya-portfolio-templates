@@ -161,6 +161,8 @@ My data comes from a wide range of sources. I pulled insights from major publica
 For this project, I plan to gather a mix of qualitative and quantitative data from news articles, government reports, and industry websites. Because many sources were already visualized, I focused on extracting qualitative insights that I can redesign into new visuals. Since my dataset is relatively small, I will use Datawrapper as my main visualization tool—its interface is user-friendly and supports interactive charts that work well with limited data. I don’t expect to use Tableau extensively for this project, as the data volume is not large enough to require more complex analysis.
 
 ## References
+
+
 | Name | URL | Description |
 |------|-----|-------------|
 | Maison Koko – Matcha Price Increase (2025) | https://maisonkoko.com/blogs/blog/matcha-price-increase-2025 | Explains reasons for price increases, production challenges, and market behavior. |
