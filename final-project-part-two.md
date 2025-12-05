@@ -92,7 +92,7 @@ This made me consider whether I should narrow my target audience and create a mo
       3.2 Labor Shortages<br>
       3.3 Slow, Craft-Based Production<br>
 4. The Price Mechanism
-5.Price Trends Over Time
+5. Price Trends Over Time
 6. Cost Breakdown Snapshot
 7. How Rising Costs Affect Consumers
 8. Practical Matcha Buying Tips
