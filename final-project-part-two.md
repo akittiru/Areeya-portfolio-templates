@@ -110,8 +110,6 @@ However, when I started building the story in Shorthand, I realized that some Da
 
 Breakaway Matcha. (n.d.). How matcha is produced. https://breakawaymatcha.com/blogs/masterclass-in-matcha/how-matcha-is-produced
 
-## References
-_List any references you used here._
 
 ## AI acknowledgements
 I used AI to help me organize and format the interview responses into a structured table, convert everything into Markdown, reduce the size of picture in Markdown, and clean up my language. AI also helped me analyze which parts of my current storyboard need improvement so I can revise it to better meet the requirements for Part III, and also help suggesting the revised storyboard to make sure it make sense while providing information that Matcha drinkers want to know.
